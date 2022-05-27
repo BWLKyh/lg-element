@@ -15,7 +15,7 @@ export default {
     },
     type: {
       type: String,
-      defalult: 'text',
+      default: 'text',
     },
   },
   data() {
